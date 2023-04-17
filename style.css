@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: #ff8c82;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+
+.buttons :hover{
+  background-color: #ffa57d
+}
